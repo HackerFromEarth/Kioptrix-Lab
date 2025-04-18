@@ -2,7 +2,7 @@
 
 ## Objective
 
-As a part of my path to PNPT by TCM Security, we were introduced to scanning and enumartion with a lab using a vulnerable machine called Kioptrix. We used the "Kioptrix: Level 1" vulnerable machine from VulnHub, which is is a great resource for hacking.
+As a part of my path to PNPT by TCM Security, we were introduced to scanning and enumartion with a lab using a vulnerable machine called Kioptrix. We used the "Kioptrix: Level 1" vulnerable machine from VulnHub, which is is a great resource for hacking. The object of the game is to acquire root access via any means possible (except actually hacking the VM server or player).
 
 ### Skills Learned
 

@@ -1,7 +1,6 @@
 # Kioptrix Lab [UNFINISHED]
 
-## Steps
-
+<a href="https://political-block-6b8.notion.site/Kioptrix-Lab-1d957d183bb5809597f8fbfc90a5649a">Steps</a>
 
 ## Objective
 

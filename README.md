@@ -17,3 +17,5 @@ As a part of my path to PNPT by TCM Security, we were introduced to scanning and
 ### Tools Used
 
 - Nmap which is a vulnerability scanning tool used to discover hosts, open ports, operating systems and services, and detecting vulnerabilties.
+- Netdiscover tool to identify all hosts on the subnet inquired.
+- Nikto command which is a web server vulnerability scanner.

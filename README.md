@@ -4,7 +4,7 @@
 
 ## Objective
 
-As a part of my path to PNPT by TCM Security, we were introduced to scanning and enumartion with a lab using a vulnerable machine called Kioptrix. We used the "Kioptrix: Level 1" vulnerable machine from VulnHub, which is is a great resource for hacking. The objective of the lab was to simply scan the device and enumerate the open ports for HTTP/S and SMB. The most important part was learning the tools and developing the methodology for the use of the tools to target hosts.
+As a part of my path to PNPT by TCM Security, we were introduced to scanning and enumartion with a lab using a vulnerable machine called Kioptrix. We used the "Kioptrix: Level 1" vulnerable machine from VulnHub, which is is a great resource for hacking. The objective of the lab was to simply scan the device and enumerate the open ports for HTTP/S and SMB. The most important part was learning the tools and developing the methodology for the use of the tools when targeting hosts.
 
 ### Skills Learned
 

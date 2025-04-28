@@ -11,7 +11,7 @@ As a part of my path to PNPT by TCM Security, we were introduced to scanning and
 - Scanning with Nmap.
 - Enumerating HTTP and HTTPS.
 - Enumerating SMB.
-- Researching Potential Vulnerabilities after the lab.
+- Scanning with Nessus.
 
 ### Tools Used
 
@@ -22,3 +22,4 @@ As a part of my path to PNPT by TCM Security, we were introduced to scanning and
 - BurpSuite - Tool used for security assessments/penetration testing of web applications.
 - Metasploit - Penetration testing framework used for identifying and exploiting vulnerabilities in computer systems and networks. In this case just identifying.
 - smbclient - Command-line utility to intereact with and access resources on networks that use Server Message Block (SMB).
+- Nessus - Vulnerability scanner that checks computers, networks, and applications for security weaknesses that hackers could exploit.

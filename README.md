@@ -21,4 +21,5 @@ As a part of my path to PNPT by TCM Security, we were introduced to scanning and
 - DirBuster - Tool used to brute force directories and file names on web/application servers.
 - BurpSuite - Tool used for security assessments/penetration testing of web applications.
 - Metasploit - Penetration testing framework used for identifying and exploiting vulnerabilities in computer systems and networks. In this case just identifying.
-- smbclient - Command-line utility to intereact with and access resources on networks that use Server Message Block (SMB).
+- SMBClient - Command-line utility to intereact with and access resources on networks that use Server Message Block (SMB).
+- Hydra - Login cracking/Brute Force tool used by researchers/penetration testers to test the authentication mechanisms.
